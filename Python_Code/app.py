@@ -3,7 +3,7 @@ import numpy as np
 import joblib
 
 # Load your model
-model = joblib.load("sales_model.pkl")
+model = joblib.load("Python_Code/sales_model.pkl")
 
 st.title("📊 Predict Sales via Advertising Budget")
 
